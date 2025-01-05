@@ -1,6 +1,4 @@
 # Projeto DSList
-
-## Descrição
 Esta API foi desenvolvida com o objetivo de demonstrar a utilização do Spring com JPA e seguindo padrão de camadas Controller, Service e Respository com o uso de DTO.
 
 ### Controller
@@ -123,3 +121,7 @@ As entidades representam as tabelas do banco de dados relacional.
     "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit esse officiis corrupti unde repellat non quibusdam! Id nihil itaque ipsum!"
 }
 ```
+
+# Melhorias Futuras
+- Integrar API com frontend
+- Criar endpoint para cadastro (POST)
